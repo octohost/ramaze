@@ -13,5 +13,3 @@ cd harp
 git remote add octohost git@ip.address.here:ramaze.git
 git push octohost master
 ```
-
-Example site \(usually\) at [http://ramaze.octohost.io](http://ramaze.octohost.io)
